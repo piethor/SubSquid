@@ -1,4 +1,4 @@
-![image](https://github.com/piethor/SubSquid/assets/81746500/f1637cf6-87be-4a7f-bbce-ca5ea4eb33cb)# SubSquid
+# SubSquid
 A Complete Guide to Participate in SubSquid Testnet
 
 1. Get a Ubunut VPS :
