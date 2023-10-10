@@ -48,3 +48,8 @@ then do this :
 - `sqd run .`
 
   and After 5-10 Min Check Your Status in SubSquid Website
+
+How to Close Your node : 
+- ctrl+c then `sqd down` and if it doesnt work then try `sudo docker compose down`
+
+How to Run Other Nodes : just Click on "how" in the subsquid App and scroll down and start from here ![image](https://i.imgur.com/MwOcJBc.png)
